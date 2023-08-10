@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/RadhaX2Support"><img src="https://te.legra.ph/file/2b1001eaf3429780afb91.jpg"></a></p>
+<p align="center"><a href="https://t.me/RadhaX2Support"><img src="https://te.legra.ph/file/900b6cf283e7e1fc7667a.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
