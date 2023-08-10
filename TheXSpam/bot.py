@@ -25,7 +25,7 @@ async def ping(_, e: Message):
       Fuk = await e.reply("**Pong !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await Fuk.edit_text(f"💫 ᴛʜᴇ 𝙳𝙴𝚅𝙸𝙻𝚂𝙿𝙰𝙼𝚇\n🔥 ᴘɪɴɢ: `{ms}ms`\n◇ ᴠᴇʀsɪᴏɴ: `3.3`")
+      await Fuk.edit_text(f"💫 𝚃𝙷𝙴 𝙳𝙴𝚅𝙸𝙻𝚂𝙿𝙰𝙼𝚇\n🔥 ᴘɪɴɢ: `{ms}ms`\n😈 ᴠᴇʀsɪᴏɴ: `3.3`")
 
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["alive"], ["/", ".", "!"]))
